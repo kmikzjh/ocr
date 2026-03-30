@@ -1,0 +1,10 @@
+*.pyc
+*.log
+.venv
+venv
+*.png
+*.jpg
+*.jpeg
+*.heic
+.DS_Store
+
